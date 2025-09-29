@@ -1,0 +1,1 @@
+Vibe coded Chinese text revealer app for improving reading speed. Just download and open index.html in chrome.
